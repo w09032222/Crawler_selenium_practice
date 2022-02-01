@@ -1,2 +1,4 @@
 # Crawler_selenium_practice
-simply browser automation program made while OWASP juice shop practicing
+A simple browser automation program using python, selenium, google chrome while OWASP juice shop studying.
+SQL injection testing and report output feature included.
+Comments written by japanese.
